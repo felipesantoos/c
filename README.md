@@ -1,2 +1,2 @@
-# c
-Resolução de exercícios em C.
+# C
+Resolução de desafios em C.
